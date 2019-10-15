@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Problem 1</string>
+    <string name="tiet_bill">Enter Bill Amount</string>
+    <string name="tv_info">Select the Tip %(Percentage)</string>
+    <string name="btn_save">Calculate</string>
+    <string name="tv_tipamountlabel">Tip Amount</string>
+</resources>
